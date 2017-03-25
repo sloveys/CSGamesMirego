@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="deleted some more password stuff">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/CSChatApplication.java" afterPath="" />
+    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="fixed the identity chat thing">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/AndroidModule.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/AndroidModule.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationActivity.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationsActivity.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationsActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/HomeActivity.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/HomeActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/LoginActivity.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/LoginActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/models/request/LoginRequest.java" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/models/request/LoginRequest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/layout/activity_home.xml" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/layout/activity_home.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/values/strings.xml" />
     </list>
     <ignored path="CSGamesMirego.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -640,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490471191026</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fixed the identity chat thing">
+      <created>1490471706696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490471706696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -701,7 +704,8 @@
     <MESSAGE value="added in TODOs&#10;modified login screen" />
     <MESSAGE value="made some more changes to remove like any traces of authentication/password stuff" />
     <MESSAGE value="deleted some more password stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted some more password stuff" />
+    <MESSAGE value="fixed the identity chat thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the identity chat thing" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

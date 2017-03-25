@@ -5,10 +5,8 @@
     <string name="login_submit">Continue</string>
     <string name="app_name">IdentityChat</string>
     <string name="welcome_title">Welcome to IdentityChat</string>
-    <string name="welcome_subtitle">Please login or register below.
-    </string> <!-- TODO change this -->
+    <string name="welcome_subtitle">A pseudo-anonymous messaging app.</string>
     <string name="login">Login</string>
-    <string name="register">Register</string>
     <string name="conversations_title">Chats</string>
     <string name="conversation_title">Chat</string>
     <string name="login_error">Sorry, that alias is currently taken.</string>
