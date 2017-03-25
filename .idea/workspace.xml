@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="more minor UI fixes">
+    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="fixed some errors i think">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/res/layout/activity_login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/data/conversations.db" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/data/conversations.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/data/users.db" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/data/users.db" />
     </list>
     <ignored path="CSGamesMirego.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,20 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="330">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
+            <state split_layout="FIRST">
               <first_editor relative-caret-position="792">
                 <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
                 <folding />
@@ -121,6 +123,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" />
+        <option value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js" />
       </list>
     </option>
   </component>
@@ -714,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1490472582356</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fixed some errors i think">
+      <created>1490473319959</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1490473319960</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -778,7 +788,8 @@
     <MESSAGE value="fixed the identity chat thing" />
     <MESSAGE value="removed registration stuff" />
     <MESSAGE value="more minor UI fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="more minor UI fixes" />
+    <MESSAGE value="fixed some errors i think" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some errors i think" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -920,14 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -986,7 +989,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="792">
             <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
             <folding />
@@ -1003,6 +1006,14 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/server/controllers/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
