@@ -17,8 +17,8 @@ public class LoginController { //TODO edit this to not authenticate
         this.storageService = storageService;
     }
 
-    public Flowable<User> login(String username, String password) {
-        return chatService.login(new LoginRequest(username, password));
+    public Flowable<User> login(String username) {
+        return chatService.login(new LoginRequest(username));
     }
 
     public void logout() {

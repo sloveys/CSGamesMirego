@@ -36,9 +36,6 @@ public class LoginActivity extends BaseActivity {
     @BindView(R.id.et_username)
     EditText etUsername;
 
-    @BindView(R.id.et_password) //TODO remove this part
-    EditText etPassword;
-
     @Inject
     LoginController loginController;
 
@@ -57,7 +54,6 @@ public class LoginActivity extends BaseActivity {
 
         if (BuildConfig.DEBUG) {
             etUsername.setText("horace");
-            etPassword.setText("draught146"); //TODO remove this part
         }
 
     }
@@ -69,7 +65,7 @@ public class LoginActivity extends BaseActivity {
             progressDialog.dismiss();
         }
         progressDialog.show();
-        loginController.login(etUsername.getText().toString(), etPassword.getText().toString())
+        loginController.login(etUsername.getText().toString())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribeOn(Schedulers.newThread())
                 .subscribe(new Consumer<User>() {
