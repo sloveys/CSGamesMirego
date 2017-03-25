@@ -27,8 +27,7 @@ class AndroidModule {
     @Singleton
     Retrofit provideRetrofit() {
         return new Retrofit.Builder()
-                // TODO: Changer pour votre propre serveur
-                .baseUrl("http://10.240.193.56:3000")
+                .baseUrl("http://localhost:3000")
                 .addConverterFactory(GsonConverterFactory.create())
                 .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
                 .build();

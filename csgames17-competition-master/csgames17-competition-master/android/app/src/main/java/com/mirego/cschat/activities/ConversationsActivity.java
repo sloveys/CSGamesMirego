@@ -116,7 +116,8 @@ public class ConversationsActivity extends BaseActivity implements ConversationA
 
     @OnClick(R.id.fab_add_conversation)
     public void onAddConversationClicked() {
-        Toast.makeText(this, getString(R.string.not_implemented_yet), Toast.LENGTH_LONG).show();
+        // Toast.makeText(this, getString(R.string.not_implemented_yet), Toast.LENGTH_LONG).show();
+        startActivity(ConversationActivity.intent(this, "0")); //start new convo hopefully
     }
 
     @Override
