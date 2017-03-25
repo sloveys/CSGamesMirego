@@ -47,7 +47,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/til_username"
-        android:hint="@string/login_password"
         android:textColorHint="@color/purpleyGrey"
         app:layout_marginTopPercent="4%">
 
