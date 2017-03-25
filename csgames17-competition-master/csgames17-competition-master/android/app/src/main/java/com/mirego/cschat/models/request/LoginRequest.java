@@ -8,9 +8,9 @@ public class LoginRequest {
     public LoginRequest() {
     }
 
-    public LoginRequest(String username, String password) {
+    public LoginRequest(String username) {
         this.username = username;
-        this.password = password;
+        this.password = "";
     }
 
     public String getUsername() {
@@ -22,10 +22,10 @@ public class LoginRequest {
     }
 
     public String getPassword() {
-        return password;
+        return "";
     }
 
     public void setPassword(String password) {
-        this.password = password;
+        this.password = "";
     }
 }
