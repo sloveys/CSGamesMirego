@@ -1,96 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="deleted ios">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat.xcodeproj/project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/AppDelegate.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/CSChat-Bridging-Header.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/ControllerFactory.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/ConversationsController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/ConversationsControllerImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/LoginControllerImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/MessageDateFormatterImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/LoginController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/MessageDateFormatter.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/Conversation.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/ConversationResponse.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/ConversationSummary.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/Message.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/MessageResponse.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/User.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/ConversationsService.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/ConversationsServiceImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/HttpConst.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/LoginServiceImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/LoginService.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/ServiceFactory.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/ConversationViewModel.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/Impl/ConversationViewModelImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/Impl/MessageViewModelImpl.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/MessageViewModel.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Localization.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Observable.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/UIView+MCLayout.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Utilities.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Base/BaseViewController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Base/NavigationController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/GenericButton.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/TextButton.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/TextField.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationTableViewCell.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationsView.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationsViewController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/HomeView.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/HomeViewController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/Login/LoginView.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/Login/LoginViewController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/MessagesView.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/MessagesViewController.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/Subviews/MessageTableViewCell.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/Subviews/SendMessageBarView.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Stylesheet/Stylesheet.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/ViewControllerFactory.swift" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-167.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-72@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-76@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-50@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/btnLogout.imageset/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/btnLogout.imageset/btnLogout.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnBack.imageset/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnBack.imageset/icnBack.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/imgProfile.imageset/Contents.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/imgProfile.imageset/imgProfile.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Base.lproj/LaunchScreen.storyboard" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Medium.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Localizable.strings" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Supporting Files/Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/Podfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/Podfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/README.md" afterPath="" />
+    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CSGamesMirego.iml" afterPath="$PROJECT_DIR$/.idea/CSGamesMirego.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" />
     </list>
     <ignored path="CSGamesMirego.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,20 +28,64 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
-              <folding />
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SOLUTION.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConversationActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="33">
+              <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2833#3191#0" expanded="false" />
+                <element signature="e#3190#3191#0" expanded="false" />
+                <element signature="e#7967#7968#0" expanded="false" />
+                <element signature="e#8039#8040#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,6 +99,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -169,7 +132,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -183,26 +146,248 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane />
       </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgames17-competition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgames17-competition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgames17-competition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgames17-competition-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CSGamesMirego" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/build.gradle" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle" activateToolWindowBeforeRun="false">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -248,6 +433,34 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -278,13 +491,30 @@
       <option name="presentableId" value="Default" />
       <updated>1490467307224</updated>
     </task>
+    <task id="LOCAL-00001" summary="deleted ios">
+      <created>1490468465358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490468465358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946795" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -298,6 +528,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -328,6 +559,72 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2833#3191#0" expanded="false" />
+            <element signature="e#3190#3191#0" expanded="false" />
+            <element signature="e#7967#7968#0" expanded="false" />
+            <element signature="e#8039#8040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
           <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
@@ -344,20 +641,165 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="1683">
           <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="231">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/src/main/java/com/mirego/cschat/activities/ConversationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="92" column="32" selection-start-line="92" selection-start-column="32" selection-end-line="92" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2833#3191#0" expanded="false" />
+            <element signature="e#3190#3191#0" expanded="false" />
+            <element signature="e#7967#7968#0" expanded="false" />
+            <element signature="e#8039#8040#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CSGamesMirego</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
