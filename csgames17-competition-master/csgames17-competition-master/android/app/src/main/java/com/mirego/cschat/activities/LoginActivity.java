@@ -36,7 +36,7 @@ public class LoginActivity extends BaseActivity {
     @BindView(R.id.et_username)
     EditText etUsername;
 
-    @BindView(R.id.et_password)
+    @BindView(R.id.et_password) //TODO remove this part
     EditText etPassword;
 
     @Inject
@@ -57,12 +57,13 @@ public class LoginActivity extends BaseActivity {
 
         if (BuildConfig.DEBUG) {
             etUsername.setText("horace");
-            etPassword.setText("draught146");
+            etPassword.setText("draught146"); //TODO remove this part
         }
 
     }
 
     @OnClick(R.id.btn_login_submit)
+        //TODO change how this is handled
     void onLoginClicked() {
         if (progressDialog.isShowing()) {
             progressDialog.dismiss();

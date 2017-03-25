@@ -2,7 +2,7 @@ package com.mirego.cschat.models;
 
 import com.google.gson.annotations.SerializedName;
 
-public class User {
+public class User { //TODO handle this idk
 
     @SerializedName("_id")
     private String id;

@@ -7,7 +7,7 @@ import com.mirego.cschat.services.StorageService;
 
 import io.reactivex.Flowable;
 
-public class LoginController {
+public class LoginController { //TODO edit this to not authenticate
 
     private final CSChatService chatService;
     private final StorageService storageService;
