@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.widget.Toast;
 
-import com.mirego.cschat.CSChatApplication;
+import com.mirego.cschat.IdentityChatApplication;
 import com.mirego.cschat.Prefs;
 import com.mirego.cschat.R;
 
@@ -19,7 +19,7 @@ public class HomeActivity extends BaseActivity {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
-        ((CSChatApplication) getApplication()).component().inject(this);
+        ((IdentityChatApplication) getApplication()).component().inject(this);
         ButterKnife.bind(this);
         redirectIfLoggedIn();
     }

@@ -20,7 +20,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.mirego.cschat.CSChatApplication;
+import com.mirego.cschat.IdentityChatApplication;
 import com.mirego.cschat.R;
 import com.mirego.cschat.adapters.MessageAdapter;
 import com.mirego.cschat.controller.ConversationController;
@@ -73,7 +73,7 @@ public class ConversationActivity extends BaseActivity implements MessageAdapter
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_conversation);
-        ((CSChatApplication) getApplication()).component().inject(this);
+        ((IdentityChatApplication) getApplication()).component().inject(this);
         ButterKnife.bind(this);
 
         setSupportActionBar(toolbar);

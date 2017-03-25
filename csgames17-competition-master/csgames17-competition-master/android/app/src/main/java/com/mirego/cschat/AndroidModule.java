@@ -17,9 +17,9 @@ import retrofit2.converter.gson.GsonConverterFactory;
 @Module
 class AndroidModule {
 
-    private final CSChatApplication application;
+    private final IdentityChatApplication application;
 
-    public AndroidModule(CSChatApplication application) {
+    public AndroidModule(IdentityChatApplication application) {
         this.application = application;
     }
 

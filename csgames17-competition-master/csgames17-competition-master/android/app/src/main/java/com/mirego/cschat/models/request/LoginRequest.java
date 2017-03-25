@@ -9,6 +9,10 @@ public class LoginRequest {
     }
 
     public LoginRequest(String username) {
+        this(username, "");
+    }
+
+    public LoginRequest(String username, String password) {
         this.username = username;
         this.password = "";
     }

@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 
 import com.mirego.cschat.BuildConfig;
-import com.mirego.cschat.CSChatApplication;
+import com.mirego.cschat.IdentityChatApplication;
 import com.mirego.cschat.Prefs;
 import com.mirego.cschat.R;
 import com.mirego.cschat.controller.LoginController;
@@ -48,7 +48,7 @@ public class LoginActivity extends BaseActivity {
         setContentView(R.layout.activity_login);
         ButterKnife.bind(this);
 
-        ((CSChatApplication) getApplication()).component().inject(this);
+        ((IdentityChatApplication) getApplication()).component().inject(this);
         progressDialog = new ProgressDialog(this);
         progressDialog.setMessage(getString(R.string.login_loading));
 
