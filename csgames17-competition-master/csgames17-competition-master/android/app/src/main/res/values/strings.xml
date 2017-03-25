@@ -1,16 +1,17 @@
 <resources>
-    <string name="login_title">Login</string>
+    <string name="login_title">Enter an alias</string>
     <string name="login_username">Username</string>
     <string name="login_password">Password</string>
     <string name="login_submit">Continue</string>
-    <string name="app_name">CSChat</string>
-    <string name="welcome_title">Welcome to CSChat</string>
-    <string name="welcome_subtitle">Please login or register below.</string>
+    <string name="app_name">IdentityChat</string>
+    <string name="welcome_title">Welcome to IdentityChat</string>
+    <string name="welcome_subtitle">Please login or register below.
+    </string> <!-- TODO change this -->
     <string name="login">Login</string>
     <string name="register">Register</string>
-    <string name="conversations_title">Conversations</string>
-    <string name="conversation_title">Conversation</string>
-    <string name="login_error">Invalid username or password</string>
+    <string name="conversations_title">Chats</string>
+    <string name="conversation_title">Chat</string>
+    <string name="login_error">Sorry, that alias is currently taken.</string>
     <string name="logout">Logout</string>
     <string name="network_error">Ooops, something went wrong</string>
     <string name="send">Send</string>
