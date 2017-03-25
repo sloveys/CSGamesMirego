@@ -22,7 +22,7 @@ _A couple of lines should be enough, just make sure we have a clear idea of what
 
 ### Mobile application
 
-> **Platform choice:** _iOS or Android_
+> **Platform choice:** Android_
 
 _Describe what you have added to the mobile project._
 

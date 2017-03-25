@@ -1,8 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="92828d08-459e-4a56-bf01-259656831237" name="Default" comment="deleted ios">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/AppDelegate.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/CSChat-Bridging-Header.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/ControllerFactory.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/ConversationsController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/ConversationsControllerImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/LoginControllerImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/Impl/MessageDateFormatterImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/LoginController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Controller/MessageDateFormatter.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/Conversation.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/ConversationResponse.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/ConversationSummary.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/Message.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/MessageResponse.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Model/User.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/ConversationsService.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/ConversationsServiceImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/HttpConst.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/Impl/LoginServiceImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/LoginService.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/Service/ServiceFactory.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/ConversationViewModel.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/Impl/ConversationViewModelImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/Impl/MessageViewModelImpl.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Domain/ViewModel/MessageViewModel.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Localization.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Observable.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/UIView+MCLayout.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/Helper/Utilities.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Base/BaseViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Base/NavigationController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/GenericButton.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/TextButton.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Common/TextField.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationTableViewCell.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationsView.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Conversations/ConversationsViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/HomeView.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/HomeViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/Login/LoginView.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Home/Login/LoginViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/MessagesView.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/MessagesViewController.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/Subviews/MessageTableViewCell.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Messages/Subviews/SendMessageBarView.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/Stylesheet/Stylesheet.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Classes/UI/ViewControllerFactory.swift" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-167.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-60@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-72@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-76@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-40@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small-50@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon-Small@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/AppIcon.appiconset/Icon@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/btnLogout.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/btnLogout.imageset/btnLogout.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnAppLogo.imageset/icnAppLogo@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnBack.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/icnBack.imageset/icnBack.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/imgProfile.imageset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Assets.xcassets/imgProfile.imageset/imgProfile.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Base.lproj/LaunchScreen.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Fonts/Lato-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Resources/Localizable.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/CSChat/Supporting Files/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/Podfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/Podfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/ios/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" afterPath="$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md" />
     </list>
     <ignored path="CSGamesMirego.iws" />
@@ -22,11 +109,11 @@
     <favorites_list name="CSGamesMirego" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
+            <state relative-caret-position="1683">
               <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
               <folding />
             </state>
@@ -36,8 +123,8 @@
       <file leaf-file-name="SOLUTION.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="0">
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -46,6 +133,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Maame Apenteng" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -61,10 +153,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="990" />
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2762" />
+    <option name="height" value="1770" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -91,12 +183,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane />
       </pane>
-      <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -189,22 +281,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1400" height="990" extended-state="0" />
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12332838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -226,6 +318,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted ios" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted ios" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -233,7 +329,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
+        <state relative-caret-position="1683">
           <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
           <folding />
         </state>
@@ -241,8 +337,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="51" column="119" selection-start-line="51" selection-start-column="119" selection-end-line="51" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csgames17-competition-master/csgames17-competition-master/SOLUTION.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
