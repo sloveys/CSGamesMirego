@@ -27,10 +27,10 @@ exports.getById = function (req, res) {
 };
 
 exports.register = function (req, res) {
-  if (req.body.username && req.body.password) {
+  if (req.body.username) { //  && req.body.password
     let user = {
       'username': req.body.username,
-      'password': bcrypt.hashSync(req.body.password, 8),
+      'password': "", // bcrypt.hashSync(req.body.password, 8)
       'url': req.body.url || ''
     };
     req.db.users.insert(user, function (e, user) {
