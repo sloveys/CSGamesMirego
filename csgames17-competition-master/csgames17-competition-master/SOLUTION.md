@@ -2,11 +2,11 @@
 
 ## Team details
 
-- Team name: _`Name of your team`_
+- Team name: _`sudo rm -rf competition`_
 - Team code: _`Code used to identify your team`_
-- University: _`Your university`_
-- Participant 1: _`First name  Last name`_
-- Participant 2: _`First name  Last name`_
+- University: _`University of guelph`_
+- Participant 1: _`Samuel Crawford Loveys`_
+- Participant 2: _`Maame Adwoa Bempomaa Apenteng`_
 
 ## Solution details
 
