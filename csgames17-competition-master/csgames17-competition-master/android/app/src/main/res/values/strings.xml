@@ -1,0 +1,20 @@
+<resources>
+    <string name="login_title">Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_submit">Continue</string>
+    <string name="app_name">CSChat</string>
+    <string name="welcome_title">Welcome to CSChat</string>
+    <string name="welcome_subtitle">Please login or register below.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="conversations_title">Conversations</string>
+    <string name="conversation_title">Conversation</string>
+    <string name="login_error">Invalid username or password</string>
+    <string name="logout">Logout</string>
+    <string name="network_error">Ooops, something went wrong</string>
+    <string name="send">Send</string>
+    <string name="send_message_hint">Type a message...</string>
+    <string name="login_loading">Logging in...</string>
+    <string name="not_implemented_yet">Not implemented yet!</string>
+</resources>
